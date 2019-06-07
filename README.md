@@ -5,6 +5,8 @@ practice purpose only (bahasa Indonesia).
 
 ## Archive
 
+The password used for each problem is **cpcpan**.
+
 | # | Links                        |
 |---|------------------------------|
 | 1 | [Problem][P1] [Solution][S1] |
@@ -14,6 +16,7 @@ practice purpose only (bahasa Indonesia).
 | 5 | [Problem][P5] Solution       |
 | 6 | [Problem][P6] Solution       |
 | 7 | [Problem][P7] Solution       |
+| 8 | [Problem][P8] Solution       |
 
 [P1]: https://vjudge.net/contest/305016
 [S1]: https://drive.google.com/open?id=1S3SyiHQQ5BzB4zs4oWO0cGKcXyeWLSHhgSx60Fr6n-I
@@ -25,4 +28,5 @@ practice purpose only (bahasa Indonesia).
 [P5]: https://vjudge.net/contest/305503
 [P6]: https://vjudge.net/contest/305588
 [P7]: https://vjudge.net/contest/305703
+[P8]: https://vjudge.net/contest/305810
 
